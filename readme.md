@@ -1,4 +1,4 @@
 
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anac-rocha)](https://github.com/anac-rocha/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anac-rocha"/>
 </div>
